@@ -10,7 +10,7 @@
     "Covid",
     "covid"
   ],
-  "author": "Freda Owusu Ansah",
+  "author": "David Atanga",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
